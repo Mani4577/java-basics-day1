@@ -20,7 +20,7 @@ public class StudentSystem {
 
 
         int totalMarks = s1.marks + s2.marks + s3.marks;
-        double average= totalMarks / 3.0;
+        double average = totalMarks / 3.0;
 
 
         System.out.println("---- Student Information ----");
